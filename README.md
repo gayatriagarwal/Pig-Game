@@ -5,4 +5,6 @@ This is a basic game of die between 2 players.
 2) Hold a die, switch to other player and the value in current player will be added to the totalscore of that player.
 3) Reset the die - means move to a new game
 
+FlowChart also attached to know the flow of the game.
+
 This website is developed using HTML, CSS and JavaScript.
